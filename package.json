@@ -5,7 +5,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
-    "url": "git+https://github.com/sr-iptech/testing"
+    "url": "git+https://github.com/sr-iptech/testing.git"
   },
   "scripts": {
     "dev": "vite dev",
