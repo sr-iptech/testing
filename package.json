@@ -1,6 +1,12 @@
 {
   "name": "svelte-component-library",
   "version": "0.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "url": "git+https://github.com/sr-iptech/testing"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run package",
